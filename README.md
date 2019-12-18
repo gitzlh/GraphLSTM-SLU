@@ -44,6 +44,8 @@ Extraction Code : ct8x
 1. The main data used in our paper is from [This repo](https://github.com/MiuLab/SlotGated-SLU).
 2. You can also find the NE tags in [This repo](https://github.com/mesnilgr/is13).
 
+Many thanks to them!
+
 Since the two datasets are relatively small, you may need to tune the hyper-parameters and random seed. 
 
 
