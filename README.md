@@ -39,7 +39,7 @@ Then the running process is the same as Snips.
 **Note**: Don't forget to set the parameters (e.g., -data) of train.py to the corresponding dataset. 
 
 
-## data & checkpoints
+## data & model checkpoints
 You can also download the preprocessed data and our well-trained model checkpoints from: [this link](https://pan.baidu.com/s/1tVRhnAfeivi4k0UKaRy83g)
 
 Extraction Code : ct8x
@@ -51,14 +51,13 @@ Extraction Code : ct8x
 4. Set the -restore_model of train.py parameter to be snips.chkpt or atis.chkpt (the name of your checkpoint).
 
 
-## Thanks & Notes
+## Thanks 
 1. The main data used in our paper is from [this repo](https://github.com/MiuLab/SlotGated-SLU).
 2. You can also find the NE tags in [this repo](https://github.com/mesnilgr/is13).
 3. The S-LSTM is proposed in [this paper](https://arxiv.org/abs/1805.02474) and our implementation is based on [this repo](https://github.com/WildeLau/S-LSTM_pytorch).
 
 Many thanks to them all!
 
-Since the two datasets are relatively small, you may need to tune the hyper-parameters and random seed. 
 
 
 
