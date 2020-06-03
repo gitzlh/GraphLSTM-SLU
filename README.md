@@ -1,6 +1,6 @@
 # GraphLSTM-SLU
 
-Code for paper "Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding"
+Code for AAAI 2020 paper "Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding"
 
 ## Requirements
 
@@ -49,6 +49,11 @@ Extraction Code : ct8x
 2. Put the checkpoints in the root directory.
 3. Set the -data parameter of train.py to be data/snips.pt or data/atis.pt (the name of your dataset).
 4. Set the -restore_model of train.py parameter to be snips.chkpt or atis.chkpt (the name of your checkpoint).
+
+## Reference
+If the code is helpful to your research, please kindly cite our paper:
+
+(To be updated)
 
 
 ## Thanks 
