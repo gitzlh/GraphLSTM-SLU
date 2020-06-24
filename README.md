@@ -53,8 +53,17 @@ Extraction Code : ct8x
 
 ## Reference
 If the code is helpful to your research, please kindly cite our paper:
+```
 
-(To be updated)
+@inproceedings{zhang2020graph,
+  title={Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding.},
+  author={Zhang, Linhao and Ma, Dehong and Zhang, Xiaodong and Yan, Xiaohui and Wang, Houfeng},
+  booktitle={AAAI},
+  pages={9539--9546},
+  year={2020}
+}
+```
+
 
 
 ## Thanks 
