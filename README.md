@@ -1,6 +1,7 @@
 # GraphLSTM-SLU
 
 Code for AAAI 2020 paper "Graph LSTM with Context-Gated Mechanism for Spoken Language Understanding"
+[https://aaai.org/ojs/index.php/AAAI/article/view/6499](https://aaai.org/ojs/index.php/AAAI/article/view/6499)
 
 ## Requirements
 
